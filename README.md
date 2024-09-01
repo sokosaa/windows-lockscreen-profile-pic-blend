@@ -1,3 +1,5 @@
+the below has to be updated
+
 0. `pip install pillow`
 1. set `images/black_pixel.png` as your microsoft profile picture
 2. set `images/6016_whiterow.jpg` as your lock screen background
